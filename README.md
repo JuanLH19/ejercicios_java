@@ -1,2 +1,2 @@
-# semana_1
-Cursos correspondientes a la semana 1 del temario de certificación en Java del 12 al 16 de Julio
+# Ejercicios del temario de certificación en Java.
+Dentro se encontraran los ejercicios realizados de los diferentes temas que componen el temario para el examen de certificación en Java.
