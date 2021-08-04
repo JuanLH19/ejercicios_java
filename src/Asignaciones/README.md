@@ -1,4 +1,4 @@
-# Ejercicios de Declaraciones y Control de Acceso
+# Ejercicios de Asignaciones.
 ## El contenido del tema es el siguiente.
     3.1) Asignaciones, Widening, Cast.
     3.1) Paso de parámetros.
