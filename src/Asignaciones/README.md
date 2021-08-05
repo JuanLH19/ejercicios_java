@@ -1,10 +1,8 @@
 # Ejercicios de Asignaciones.
-## El contenido del tema es el siguiente.
-    3.1) Asignaciones, Widening, Cast.
-    3.1) Paso de parámetros.
-    3.3) Arrays, clase Array para manipular Arrays.
-    3.4) Clases envoltorios y boxing.
-    3.5) Sobrecarga de Métodos con Widening, Boxing y Argumentos Variables.
-    3.6) Comparación de tipos nativos, comparación de clases envoltorio.
-
+## El contenido de los ejercicios del tema es el siguiente.
+    PasoParametros.java: Donde aplicamos metódos para modificar el contenido de una variable y un array para ver si posterior a ejecutar el método se realizo el paso de parametro.
+    Persona.java: Asignamos algunos valores dentro de un arreglo mediante la creación de un objeto de acuerdo a los atributos establecidos en el constructor..
+    SobrecargaBoxingTiposPrimitivos.java: Código para ver el funcionamiento de la sobrecarga de métodos.
+    SobrecargaPrimitivos: Código para ver el funcionamiento de sobrecarga de métodos de variables de tipo primitivo.
+    
 > La tecnologías utilizadas fueron el lenguaje de programación Java y el IDE IntelliJ IDEA.
